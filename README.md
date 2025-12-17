@@ -53,7 +53,7 @@ book.html
     </head>
     <body>
         <div id="heading">
-            <h1 style="font-size: 70px; margin-top: 0px;">MY BOOK</h1>
+            <h1 style="font-size: 70px; margin-top: 0px;">The Cherry Blossom</h1>
             <h3 style="font-size: 30px; ">By Lakshiya Rajkumar</h3>
         </div>
     </body>
@@ -61,7 +61,6 @@ book.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (27)-1.png>)
-
+![alt text](<Screenshot (28).png>)
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
